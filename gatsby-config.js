@@ -37,14 +37,14 @@ module.exports = {
       resolve: "gatsby-source-contentful",
       options: {
         spaceId: 'hqen29pbrf9p',
-        accessToken: 'process.env.CFPAT-rqamPdV-Tv-gVbZ-RPW5W0CjB-ZVoUKw7XrILhBu8Vw',
+        accessToken: 'xn29OFXZsyiZWSi4cv4WiUVfqlJU_YSECJaQC53DBPo',
         downloadLocal: true,
       }
     },
     {
       resolve: "gatsby-plugin-snipcart",
       options: {
-        apiKey: snipcart,
+        apiKey: 'ZWYyZDI2NWItMDJlNC00M2I1LWEwNDAtOWUzYWU0ZGU0NjRhNjM2ODMzOTYwMDk2MzMzNjk2',
         autopop: true,
       },
     },
